@@ -1,9 +1,9 @@
-# 🤖  Resume Screening System
+#  Resume Screening System
 
 Resume Screening System built with Python and Streamlit that automates candidate evaluation using NLP-based skill matching and ATS scoring.
 This project allows recruiters and hiring teams to upload multiple resumes in PDF format, compare them against job requirements, and instantly rank candidates based on skills, experience, and resume relevance.
 
-## 🚀 Features
+##  Features
 
 * 📄 Upload and analyze multiple PDF resumes
 * 🧠 NLP-based resume preprocessing
@@ -15,7 +15,7 @@ This project allows recruiters and hiring teams to upload multiple resumes in PD
 * ❌ Missing skills identification
 * 🎨 Modern and interactive Streamlit UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Streamlit
@@ -24,7 +24,7 @@ This project allows recruiters and hiring teams to upload multiple resumes in PD
 * PDF Parsing
 
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Upload candidate resumes in PDF format
 2. Enter required skills and experience
@@ -34,14 +34,14 @@ This project allows recruiters and hiring teams to upload multiple resumes in PD
 6. ATS scores are generated
 7. Candidates are ranked automatically
 
-## ▶️ Run Locally
+##  Run Locally
 
 ```bash
 streamlit run app.py
 ```
 
 
-## 🌟 Use Cases
+##  Use Cases
 
 * HR automation
 * Resume shortlisting
