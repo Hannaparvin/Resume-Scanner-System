@@ -34,20 +34,7 @@ This project allows recruiters and hiring teams to upload multiple resumes in PD
 6. ATS scores are generated
 7. Candidates are ranked automatically
 
-##  Run Locally
 
-```bash
-streamlit run app.py
-```
-
-
-##  Use Cases
-
-* HR automation
-* Resume shortlisting
-* Candidate ranking
-* ATS simulation
-* Recruitment analytics
 
 
 ---
